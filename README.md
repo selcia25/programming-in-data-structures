@@ -36,7 +36,7 @@ Here's a list of the data structures and algorithms included in this repository:
 
 To start using the code examples and implementations in this repository, follow these steps:
 
-1. Clone this repository to your local machine : git clone https://github.com/your-username/programming-in-data-structures.git
+1. Clone this repository to your local machine : git clone https://github.com/selcia25/programming-in-data-structures.git
 
 2. Navigate to the directory containing the data structure or algorithm of interest: cd programming-in-data-structures
 
@@ -48,7 +48,7 @@ Contributions to this repository are welcome! If you'd like to contribute:
 
 1. Fork this repository to your GitHub account.
 
-2. Clone your fork to your local machine: git clone https://github.com/your-username/programming-in-data-structures.git
+2. Clone your fork to your local machine: git clone https://github.com/selcia25/programming-in-data-structures.git
 
 3. Create a new branch for your changes: git checkout -b feature/new-feature
    
