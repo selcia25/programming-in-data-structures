@@ -1,5 +1,3 @@
-# programming-in-data-structures
-
 # Programming in Data Structures
 
 Welcome to the "Programming in Data Structures" repository! This repository contains Python code examples and implementations of various data structures and algorithms to help you learn and practice programming concepts related to data structures. Whether you're a beginner or an experienced programmer, this repository aims to provide you with valuable resources for understanding and implementing these fundamental topics.
